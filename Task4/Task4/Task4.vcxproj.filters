@@ -27,6 +27,9 @@
     <ClCompile Include="libwav.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="get_opt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h">
@@ -51,6 +54,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="libwav.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="get_opt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
