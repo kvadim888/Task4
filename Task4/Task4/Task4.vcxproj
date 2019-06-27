@@ -158,6 +158,7 @@
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h" />
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h" />
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h" />
     <ClInclude Include="getopt.h" />
     <ClInclude Include="libfix.h" />
     <ClInclude Include="libsignal.h" />
