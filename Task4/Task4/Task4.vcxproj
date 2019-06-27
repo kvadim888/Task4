@@ -146,7 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="get_opt.c" />
+    <ClCompile Include="getopt.c" />
     <ClCompile Include="libfix.c" />
     <ClCompile Include="libsignal.c" />
     <ClCompile Include="libwav.c" />
@@ -158,7 +158,7 @@
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h" />
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h" />
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h" />
-    <ClInclude Include="get_opt.h" />
+    <ClInclude Include="getopt.h" />
     <ClInclude Include="libfix.h" />
     <ClInclude Include="libsignal.h" />
     <ClInclude Include="libwav.h" />
