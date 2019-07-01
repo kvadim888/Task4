@@ -148,8 +148,6 @@
   <ItemGroup>
     <ClCompile Include="getopt.c" />
     <ClCompile Include="libfix.c" />
-    <ClCompile Include="libsignal.c" />
-    <ClCompile Include="libwav.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
@@ -161,8 +159,6 @@
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h" />
     <ClInclude Include="getopt.h" />
     <ClInclude Include="libfix.h" />
-    <ClInclude Include="libsignal.h" />
-    <ClInclude Include="libwav.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

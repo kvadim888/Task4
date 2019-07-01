@@ -34,8 +34,8 @@ int32_t fix_add(int32_t a, int32_t b);
 int32_t fix_sub(int32_t a, int32_t b);
 int32_t	fix_mul(int32_t a, int32_t b);
 
-int32_t	fix_mac(int32_t acc, int32_t a, int32_t b);
-int32_t	fix_msub(int32_t acc, int32_t a, int32_t b);
+int32_t	fix_mac(int64_t *acc, int32_t a, int32_t b);
+int32_t	fix_msub(int64_t *acc, int32_t a, int32_t b);
 
 int32_t	fix_leftshift(int32_t num, int8_t shift);
 int32_t	fix_rightshift(int32_t num, int8_t shift);
